@@ -1,0 +1,6 @@
+framework module Pods_Creek_Demo {
+  umbrella header "Pods-Creek Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
